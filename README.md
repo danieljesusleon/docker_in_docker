@@ -64,6 +64,7 @@ css
     docker-compose --version
 
 That's it! You now have Docker and Docker Compose installed inside your Docker container. You can use Docker Compose to manage and deploy your applications inside the container.
+
 Conclusion
 
 In this guide, we have shown you how to install Docker inside a Docker container (DinD) using the Ubuntu container image and Docker Compose. By following these steps, you can easily set up a development environment inside a Docker container and deploy your applications with ease.
